@@ -1,0 +1,4 @@
+This is just where I'm writing down lilypond errors so I can remember between sessions what different errors look like
+
+Why are there not linebreaks where I put them?
+There is likely a mistake in your note lengths that causes the line break to not fall on a measure break.  This will result in a line break not being added at all

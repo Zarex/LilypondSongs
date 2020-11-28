@@ -1,0 +1,23 @@
+Need one for line break
+Timing changes
+Rests
+ties
+line breaks
+
+
+
+
+#Category for things that won't be needed each song
+staccato
+
+
+
+
+
+% Timing change to 1: c''''',1
+% Timing change to 2: b'''',2
+% Timing change to 4: a'''',4
+% Timing change to 8: g'''',8
+% Mark linebreak    : f'''', \break
+% Mark Rest         : e'''', r
+% Mark Staccato     : d'''',\staccato
